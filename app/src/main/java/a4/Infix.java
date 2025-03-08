@@ -1,4 +1,4 @@
-package a4;
+/**package a4;
 
 import java.util.ArrayDeque;
 
@@ -8,5 +8,5 @@ public class Infix {
         
     }
 
-}
+}**/
 
