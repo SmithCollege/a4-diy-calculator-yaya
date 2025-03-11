@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="a4.PostfixTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-09T13:35:37" hostname="codespaces-295d5f" time="0.179">
+<testsuite name="a4.PostfixTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-11T13:06:17" hostname="codespaces-295d5f" time="0.021">
   <properties/>
-  <testcase name="testPostfixSingle" classname="a4.PostfixTest" time="0.047"/>
-  <testcase name="testPostfixCombo" classname="a4.PostfixTest" time="0.021"/>
-  <testcase name="testPostfixMinus" classname="a4.PostfixTest" time="0.037"/>
-  <testcase name="testPostfixTimes" classname="a4.PostfixTest" time="0.013"/>
-  <testcase name="testPostfixThrowsException" classname="a4.PostfixTest" time="0.008"/>
-  <testcase name="testPostfixDiv" classname="a4.PostfixTest" time="0.008"/>
-  <testcase name="testPostfixPlus" classname="a4.PostfixTest" time="0.021"/>
+  <testcase name="testPostfixSingle" classname="a4.PostfixTest" time="0.003"/>
+  <testcase name="testPostfixCombo" classname="a4.PostfixTest" time="0.002"/>
+  <testcase name="testPostfixMinus" classname="a4.PostfixTest" time="0.003"/>
+  <testcase name="testPostfixTimes" classname="a4.PostfixTest" time="0.003"/>
+  <testcase name="testPostfixThrowsException" classname="a4.PostfixTest" time="0.001"/>
+  <testcase name="testPostfixDiv" classname="a4.PostfixTest" time="0.002"/>
+  <testcase name="testPostfixPlus" classname="a4.PostfixTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

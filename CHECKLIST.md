@@ -15,22 +15,22 @@ You should also make sure that your logic and ideas are clearly expressed to ful
 
 Postfix.java:
 
-_____ 1 pts: Pushes numeric tokens onto the stack
+__YES___ 1 pts: Pushes numeric tokens onto the stack
 
-_____ 2 pts: Processes operators by popping & combining numbers
+__YES___ 2 pts: Processes operators by popping & combining numbers
 
-_____ 2 pts: Produces correct answer to any valid postfix expression
+___YES__ 2 pts: Produces correct answer to any valid postfix expression
 
-_____ 1 pts: Throws an exception with an informative error message in case of malformed expressions
+__YES___ 1 pts: Throws an exception with an informative error message in case of malformed expressions
 
 
 Calculate.java:
 
-_____ 1 pts: Implements shunting-yard algorithm to produce queue of tokens
+__YES___ 1 pts: Implements shunting-yard algorithm to produce queue of tokens
 
-_____ 1 pt: Output of shunt yard passed to postfix via queue
+___YES__ 1 pt: Output of shunt yard passed to postfix via queue
 
-_____ 1 pt: Computes correct arithmetic results for +, -, *, and / operations
+__YES___ 1 pt: Computes correct arithmetic results for +, -, *, and / operations
 
 _____ 1 pt: Properly handles operators with different associative properties (e.g. ^) using the full Wikipedia algorithm
 

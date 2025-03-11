@@ -58,9 +58,12 @@ public class Postfix {
                     throw new ArithmeticException("You cannot divide by 0.");
                 }
                 return num1 / num2;
+            case '^':
+                return Math.pow(num1,num2);
 
             default:
                 throw new IllegalArgumentException("Unsupported operator: " + operator);
         }
     }
+
 }
