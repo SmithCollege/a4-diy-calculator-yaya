@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="a4.InfixTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-11T17:01:31" hostname="codespaces-295d5f" time="0.227">
+  <properties/>
+  <testcase name="testInfixThrowsException" classname="a4.InfixTest" time="0.014"/>
+  <testcase name="testExponent" classname="a4.InfixTest" time="0.041"/>
+  <testcase name="testParen" classname="a4.InfixTest" time="0.088"/>
+  <testcase name="testSimple" classname="a4.InfixTest" time="0.073"/>
+  <testcase name="testSingle" classname="a4.InfixTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
